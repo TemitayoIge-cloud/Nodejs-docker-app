@@ -115,10 +115,10 @@ homepage.
 
 | Step | Screenshot |
 |------|------------|
-| Docker Build | ![docker build](screenshots/docker-build.png) |
-| Docker Hub Repository | ![docker hub](screenshots/docker-hub.png) |
-| Running Container (`docker ps`) | ![docker ps](screenshots/docker-ps.png) |
-| Live Application | ![live app](screenshots/live-app.png) |
+| Docker Build | ![docker build](docker-build.png) |
+| Docker Hub Repository | ![docker hub](dockerhub-image.png) |
+| Running Container (`docker ps`) | ![docker ps](docker-container.png) |
+| Live Application | ![live app](live-app.png) |
 
 *(Create a `screenshots/` folder in this repo, drop your 4 PNGs in with the
 names above, `git add`, `git commit`, `git push` — the images will render
