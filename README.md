@@ -120,6 +120,4 @@ homepage.
 | Running Container (`docker ps`) | ![docker ps](docker-container.png) |
 | Live Application | ![live app](live-app.png) |
 
-*(Create a `screenshots/` folder in this repo, drop your 4 PNGs in with the
-names above, `git add`, `git commit`, `git push` — the images will render
-automatically in this README on GitHub.)*
+
